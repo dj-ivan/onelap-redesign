@@ -10,7 +10,7 @@ const articles = [
     title: "Meet the Champions: Interviews with Last Year’s Winners",
     description:
       "Get to know the champions of last year’s One Lap of America. Read our exclusive interviews and learn what it takes to win this challenging event.",
-    imgSrc: "/onelap-redesign/images/news/news2.jpeg",
+    imgSrc: "onelap-redesign/images/news/news2.jpeg",
     alt: "Meet the Champions",
   },
   {
