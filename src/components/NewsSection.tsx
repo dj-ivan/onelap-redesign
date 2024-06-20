@@ -3,21 +3,21 @@ const articles = [
     title: "Exciting New Routes Announced for the Upcoming Event",
     description:
       "We are thrilled to announce new and challenging routes for the upcoming One Lap of America event. Join us to experience these exciting new tracks.",
-    imgSrc: "onelap-redesign/images/news/news1.jpg",
+    imgSrc: "images/news/news1.jpg",
     alt: "Exciting New Routes",
   },
   {
     title: "Meet the Champions: Interviews with Last Year’s Winners",
     description:
       "Get to know the champions of last year’s One Lap of America. Read our exclusive interviews and learn what it takes to win this challenging event.",
-    imgSrc: "onelap-redesign/images/news/news2.jpeg",
+    imgSrc: "images/news/news2.jpeg",
     alt: "Meet the Champions",
   },
   {
     title: "Safety First: Enhanced Safety Measures for Participants",
     description:
       "Safety is our top priority. Learn about the enhanced safety measures we are implementing to ensure a safe and enjoyable experience for all participants.",
-    imgSrc: "onelap-redesign/images/news/news3.jpeg",
+    imgSrc: "images/news/news3.jpeg",
     alt: "Enhanced Safety Measures",
   },
 ];
