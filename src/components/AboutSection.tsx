@@ -5,7 +5,7 @@ const AboutSection = () => {
         <h2 className="text-3xl font-bold mb-4 text-primary">About One Lap of America</h2>
         <p className="text-gray-700 mb-4">Learn more about the history and mission of One Lap of America.</p>
         <div className="flex justify-center">
-          <img src="/onelap-redesign/images/about.jpg" alt="About One Lap of America" className="rounded-lg shadow-lg" />
+          <img src="onelap-redesign/images/about.jpg" alt="About One Lap of America" className="rounded-lg shadow-lg" />
         </div>
       </div>
     </section>
