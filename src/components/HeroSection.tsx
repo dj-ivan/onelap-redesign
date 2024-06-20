@@ -1,7 +1,7 @@
 const HeroSection = () => {
   return (
     <div className="relative overflow-hidden bg-background">
-      <img src="onelap-redesign/images/hero.jpg" alt="Hero Image" className="absolute inset-0 w-full h-full object-cover opacity-50" />  
+      <img src="images/hero.jpg" alt="Hero Image" className="absolute inset-0 w-full h-full object-cover opacity-50" />  
       <div className="mx-auto max-w-7xl">
         <div className="relative z-10 pb-8 sm:pb-16 md:pb-20 lg:w-full lg:max-w-2xl lg:pb-28 xl:pb-32">
           <main className="mx-auto mt-10 max-w-7xl px-4 sm:mt-12 sm:px-6 md:mt-16 lg:mt-20 lg:px-8 xl:mt-28">
